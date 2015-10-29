@@ -1,2 +1,2 @@
 # IOT_COMPONENTS
-Stuff I wrote during relating to IOT
+Stuff I wrote relating to IOT
