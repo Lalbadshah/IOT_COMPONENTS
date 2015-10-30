@@ -1,0 +1,19 @@
+AT - ATTENTION
+
+Lack of OS - AT commands are built in to OS
+
+
+AT+GMR-Sharing Version
+AT+RST-Reset
+AT+CWMODE=1/2/3   - 1 - Access Point
+                  - 2 - Station
+                  - 3 - BOTH
+
+AT+CWLAP - Least Access point , Shows SSIDS
+AT+CWJAP=ssid,password - Join Access Point
+AT+CWJAP?-Output SSID
+AT+CIFSR-retrieve IP
+
+AT+CIPMUX=1
+AT+CIPSERVER=1,8888
+AT+CIPSEND=0,13
